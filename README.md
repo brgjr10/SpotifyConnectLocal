@@ -2,7 +2,7 @@
 
 Script to authenticate with Spotify locally and build playlists from a song list.
 
-<img width="1280" height="710" alt="image" src="https://github.com/user-attachments/assets/eb6627e5-841c-4105-bf17-425fc95f4b2e" />
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/ea975f43-8a25-468d-b5f0-5da5209552b5" />
 
 ## Setup
 
